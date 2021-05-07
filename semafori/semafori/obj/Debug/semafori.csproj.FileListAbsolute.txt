@@ -1,0 +1,6 @@
+C:\Users\studenti\source\repos\semafori\semafori\bin\Debug\semafori.exe.config
+C:\Users\studenti\source\repos\semafori\semafori\bin\Debug\semafori.exe
+C:\Users\studenti\source\repos\semafori\semafori\bin\Debug\semafori.pdb
+C:\Users\studenti\source\repos\semafori\semafori\obj\Debug\semafori.csprojAssemblyReference.cache
+C:\Users\studenti\source\repos\semafori\semafori\obj\Debug\semafori.exe
+C:\Users\studenti\source\repos\semafori\semafori\obj\Debug\semafori.pdb
